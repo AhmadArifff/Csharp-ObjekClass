@@ -1,0 +1,13 @@
+J:\MATA KULIAH ONLINE\SEMESTER 3\Pemrograman Berorientasi Objek I\PERTEMUAN 4\ObjekClass\bin\Debug\netcoreapp3.1\ObjekClass.exe
+J:\MATA KULIAH ONLINE\SEMESTER 3\Pemrograman Berorientasi Objek I\PERTEMUAN 4\ObjekClass\bin\Debug\netcoreapp3.1\ObjekClass.deps.json
+J:\MATA KULIAH ONLINE\SEMESTER 3\Pemrograman Berorientasi Objek I\PERTEMUAN 4\ObjekClass\bin\Debug\netcoreapp3.1\ObjekClass.runtimeconfig.json
+J:\MATA KULIAH ONLINE\SEMESTER 3\Pemrograman Berorientasi Objek I\PERTEMUAN 4\ObjekClass\bin\Debug\netcoreapp3.1\ObjekClass.runtimeconfig.dev.json
+J:\MATA KULIAH ONLINE\SEMESTER 3\Pemrograman Berorientasi Objek I\PERTEMUAN 4\ObjekClass\bin\Debug\netcoreapp3.1\ObjekClass.dll
+J:\MATA KULIAH ONLINE\SEMESTER 3\Pemrograman Berorientasi Objek I\PERTEMUAN 4\ObjekClass\bin\Debug\netcoreapp3.1\ObjekClass.pdb
+J:\MATA KULIAH ONLINE\SEMESTER 3\Pemrograman Berorientasi Objek I\PERTEMUAN 4\ObjekClass\obj\Debug\netcoreapp3.1\ObjekClass.AssemblyInfoInputs.cache
+J:\MATA KULIAH ONLINE\SEMESTER 3\Pemrograman Berorientasi Objek I\PERTEMUAN 4\ObjekClass\obj\Debug\netcoreapp3.1\ObjekClass.AssemblyInfo.cs
+J:\MATA KULIAH ONLINE\SEMESTER 3\Pemrograman Berorientasi Objek I\PERTEMUAN 4\ObjekClass\obj\Debug\netcoreapp3.1\ObjekClass.csproj.CoreCompileInputs.cache
+J:\MATA KULIAH ONLINE\SEMESTER 3\Pemrograman Berorientasi Objek I\PERTEMUAN 4\ObjekClass\obj\Debug\netcoreapp3.1\ObjekClass.dll
+J:\MATA KULIAH ONLINE\SEMESTER 3\Pemrograman Berorientasi Objek I\PERTEMUAN 4\ObjekClass\obj\Debug\netcoreapp3.1\ObjekClass.pdb
+J:\MATA KULIAH ONLINE\SEMESTER 3\Pemrograman Berorientasi Objek I\PERTEMUAN 4\ObjekClass\obj\Debug\netcoreapp3.1\ObjekClass.genruntimeconfig.cache
+J:\MATA KULIAH ONLINE\SEMESTER 3\Pemrograman Berorientasi Objek I\PERTEMUAN 4\ObjekClass\obj\Debug\netcoreapp3.1\ObjekClass.csprojAssemblyReference.cache
